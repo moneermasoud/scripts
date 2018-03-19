@@ -1,24 +1,24 @@
 # PHP Scripts
-########################################################## 
-###                    LGH Sh3ll                       ###
-###              Libyan Ghosts Hackers                 ###
-###                  Web Shell 2015                    ###
-###     Bypass Disable Functions and Safe Moed         ###
-###         Copyright © 2015 By Moneer Masoud          ###
-########################################################## 
+<p>##########################################################</p>
+<p>###                    LGH Sh3ll                       ###</p>
+<p>###              Libyan Ghosts Hackers                 ###</p>
+<p>###                  Web Shell 2015                    ###</p>
+<p>###     Bypass Disable Functions and Safe Moed         ###</p>
+<p>###         Copyright © 2015 By Moneer Masoud          ###</p>
+<p>##########################################################</p>
 
-###########################################################################################################
-#### Script Encoding Decoding Encryption (base64 Encode/Decode , URL Encode/Decode , MD5 , SHA1 , Crypt ) #
-####                              Copyright © 2014 By Moneer Masoud                                       #   
-###########################################################################################################
+<p>###########################################################################################################</p>
+<p>#### Script Encoding Decoding Encryption (base64 Encode/Decode , URL Encode/Decode , MD5 , SHA1 , Crypt ) #</p>
+<p>####                              Copyright © 2014 By Moneer Masoud                                       #</p>  
+<p>###########################################################################################################</p>
 
-##########################################
-# Script Change Password Admin Joomla    #
-# Script Change Password Admin Wordpress #
-# Script Script Resetpass CPanel         #
-##########################################
+<p>##########################################</p>
+<p># Script Change Password Admin Joomla    #</p>
+<p># Script Change Password Admin Wordpress #</p>
+<p># Script Script Resetpass CPanel         #</p>
+<p>##########################################</p>
 
-SOCIAL MEDIAS
+<p>SOCIAL MEDIAS</p>
 
 <p>https://www.facebook.com/moneer.massoud</p>
 <p>https://twitter.com/MoneerMasoud</p>
