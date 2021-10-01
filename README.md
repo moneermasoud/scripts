@@ -12,7 +12,7 @@
 <p># Script Change Password Admin Joomla    </p>
 <p># Script Change Password Admin Wordpress </p>
 <p># Script Script Resetpass CPanel          </p>
-<p>##########################################</p>
+<p>##############################################</p>
 
 <p>SOCIAL MEDIAS</p>
 
